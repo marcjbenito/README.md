@@ -9,5 +9,5 @@ One of my long-term dreams is to create and lead a successful project that makes
 
 ### Skills
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,express,dotnet,nodejs,git,cs,java,kotlin,mysql,mongodb,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </a>
